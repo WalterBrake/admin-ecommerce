@@ -1,5 +1,13 @@
 # app-pagos
 
+## IMPORTANTE
+
+DEFINIR UN .env en la raiz con la base de la api:
+
+API_URL='http://localhost:4000'
+
+
+
 ## Build Setup
 
 ```bash
